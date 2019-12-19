@@ -1,3 +1,3 @@
 ### Avenger Thanos Snap Effect Using JavaScript
 
-Demo : [https://everythingishere.info/thanos-snap/](https://everythingishere.info/thanos-snap/)
+Demo : [https://simongomes.github.io/js-avenger-thanos-snap/](https://simongomes.github.io/js-avenger-thanos-snap/)
